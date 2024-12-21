@@ -68,4 +68,4 @@ endmodule
 
 
 **RESULTS**
- The given programs for flipflops and verify its verify its truth table in quartus using verilog programming 
+ The given programs for flipflops and verify its verify its truth table in quartus using verilog programming .
